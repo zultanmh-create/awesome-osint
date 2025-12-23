@@ -1,4 +1,4 @@
-# Awesome OSINT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<img width="1087" height="186" alt="image" src="https://github.com/user-attachments/assets/9dc219d3-962a-426a-b9b3-d40ea69e13d5" /># Awesome OSINT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://github.com/jivoi/awesome-osint/raw/master/osint_logo.png" align="right" width="100">](https://github.com/jivoi/awesome-osint)
 
@@ -667,6 +667,7 @@ algorithms, knowledgebase and AI technology.
 * [User Search](http://www.usersearch.org) - Find someone by username, email, phone number or picture across Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs, 3000+ sites Supported!
 * [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
 * [WhatsMyName](https://whatsmyname.app/) - check for usernames across many different platforms.
+* [360username](https://360username.com/) – Search a username across 90+ social platforms to find matching profiles.
 
 
 ## [↑](#-table-of-contents) People Investigations
